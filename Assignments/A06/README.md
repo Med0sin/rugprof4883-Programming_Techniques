@@ -1,5 +1,5 @@
 ## Assignment 6 - Hardwood Species
-#### Due: 09-08-2022 (Thursday @ 11:00 a.m.)
+#### Due: 09-08-2023 (Thursday @ 11:00 a.m.)
 
 ### Overview
 
@@ -15,5 +15,5 @@
 
 - Create a folder called `A06` in your `assignments` folder.
 - Place the pdf, your solution code, and any input files you used in this folder.
-- Make sure you create an acceptable [README](../../Resources/03-Readmees/README.md) file for this project (presentation is everything!)
+- Make sure you create an acceptable [README](../../Resources/03-Readmees/README.md) file for this project
 - Commit this content to your github repo by the due date.
